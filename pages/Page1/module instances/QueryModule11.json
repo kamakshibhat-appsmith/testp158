@@ -1,0 +1,19 @@
+{
+  "gitSyncId": "6695ffd24a0564113f6c146a_ed225364-8dd1-47de-ba9b-54a536d8e81a",
+  "id": "Page1_QueryModule11",
+  "moduleUUID": "6c7b5644-b802-487a-bcc1-ae77f035f6cd",
+  "packageUUID": "cc7da2b2-1824-49ea-84a6-4cedade4660b",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "1"
+    },
+    "moduleInputs": {
+      "bylojafiic": {}
+    },
+    "name": "QueryModule11",
+    "pageId": "Page1",
+    "version": "0.0.4"
+  }
+}
